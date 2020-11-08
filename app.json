@@ -1,0 +1,12 @@
+{
+  "name": "misha-login",
+  "displayName": "misha-login",
+  "expo": {
+    "name": "misha-login",
+    "slug": "misha-login",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
