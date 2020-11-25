@@ -1,12 +1,16 @@
 {
-  "name": "misha-login",
-  "displayName": "misha-login",
   "expo": {
-    "name": "misha-login",
-    "slug": "misha-login",
+    "name": "MishaLoginTest",
+    "icon": "./assets/logo/login.png",
+    "slug": "MishaLoginTest",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "ios": {
+      "bundleIdentifier": "com.mishaReact.MishaLoginTest",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.mishaReact.MishaLoginTest",
+      "versionCode": 1
+    }
   }
 }
